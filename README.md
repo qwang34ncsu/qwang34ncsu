@@ -1,15 +1,25 @@
-<div id="header" style="display: flex; justify-content: center; align-items: center; text-align: center;">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWdjMmxrbXM0cXo0bmZmZDBheXpucGphNjNocjNkeHpvMTc5emN6NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ww9Z3l8wl4szKyRIro/giphy.gif" width="300"/>
-  <img 
-src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjdnOGZ6dW9hNmQ0NHBjNWt4amt1Yzd6azR3YjBseGlyZ2Zqd3V6MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/n3cFIPQ1IH0TZJtCuu/giphy.gif" width="300"/>
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMndwenpyOTltNnlwaXY4b3dwOHhlcWxiZnY2aXcyMGllNGczend2NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/TJP7EH5i1fB2rKeWbf/giphy.gif" width="300"/>
+<div id="header" style="display: flex; justify-content: center; align-items: center; text-align: center; flex-direction: column;">
+  <h2 style="color: pink; width: 100%; text-align: center;">Welcome to Harper's GitHub Homepage</h2>
+  <div style="display: flex; justify-content: center; align-items: center; margin-bottom: 20px;">
+    <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHA3am1hNmJxY3Zub251NzQ3NnE5bnc3YWUwb2tkNjEyd3oxa3NlZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/S2qKUyPXIqUEQYp1Cc/giphy.gif" width="300"/>
+    <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjdnOGZ6dW9hNmQ0NHBjNWt4amt1Yzd6azR3YjBseGlyZ2Zqd3V6MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/n3cFIPQ1IH0TZJtCuu/giphy.gif" width="300"/>
+    <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWI3c2R1anM1YXF2bHFvZnRjNjlvdmpvanZxZnc3aGpycGpxbHZ2dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ST9r1qs0eMuSnalAfJ/giphy.gif" width="300"/>
+  </div>
+  <div style="display: flex; justify-content: center; align-items: center;">
+    <a href="https://www.linkedin.com/in/harperwang" style="margin-right: 15px;">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="40" height="40">
+    </a>
+    <a href="https://medium.com/@qwang34" style="margin-right: 15px;">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/e/ec/Medium_logo_Monogram.svg" alt="Medium" width="40" height="40">
+    </a>
+    <a href="https://public.tableau.com/app/profile/harper.wang/vizzes">
+      <img src="https://www.tableau.com/sites/default/files/2021-05/tableau_color.png" alt="Tableau" width="40" height="40">
+    </a>
+  </div>
 </div>
 
 
 
-
-
-## Hi there 👋
 
 <!--
 **qwang34ncsu/qwang34ncsu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
